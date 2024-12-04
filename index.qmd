@@ -1,11 +1,31 @@
 ---
-title: "pneal37"
+title: "Parker Neal"
+image: mendog.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/parkerneal2025/
+    - text: GitHub
+      href: https://github.com/pneal37
+    - text: Email
+      href: mailto:pneal37@colostate.edu
 ---
 
-This is a Quarto website.
+## Introduction
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, I am an emerging professional in the field of sustainability focused on the convergence between watershed science, ecology, and sustainable development. My core qualities of trust and sensibility contribute to my ability to thrive in a collaborative setting. With my unique professional and scholarly experience, I am confident that my skills and knowledge will provide stability to any professional structure I join. Outside of school and work, my hobbies include hiking, fishing, photography, and attending live music.
 
-```{r}
-1 + 1
-```
+## Education
+
+***Colorado State University** \| Fort Collins, CO*
+
+B.S. in Ecosystem Science & Sustainability \| Expected May 2025
+
+*Minors: Watershed Science & Conservation Biology*
+
+P.S.M in Ecosystem Science & Sustainability \| Expected May 2026
+
+*Concentration: Water Resources*

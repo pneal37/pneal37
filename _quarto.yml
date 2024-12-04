@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "pneal37"
+  title: "Parker Neal"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - experience.qmd
+      - interest.qmd
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: 
+      light: yeti
+      dark: vapor
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
