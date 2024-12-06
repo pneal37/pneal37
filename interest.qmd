@@ -1,6 +1,16 @@
 ---
-title: "Extracurricular Interests"
+title: "Album Reccomendations"
 author: ""
 ---
 
-This section will be for music and pictures
+[![Quebec - Ween](images/que.png){width="49%"}](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30?si=lAJdyIR5QCOJvugYArgsWg) [![Pacific Northwest '73-'74: Believe It If You Need It - Grateful Dead](images/pnw.jpg){fig-align="right" width="49%"}](https://open.spotify.com/album/3EUx54No5UpMca8zIyTpbd?si=_Sf98XAISLeRiDxZuAFZtQ)
+
+[![Meddle - Pink Floyd](images/med.jpeg){width="49%"}](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb?si=bsVeIPGTQimw9MKKs4xPIQ) [![Head Hunters - Herbie Hancock](images/herb.jpg){width="49%"}](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA?si=rn-99_ggQXaUSgyKdEGGlQ)
+
+[![Tourist - St.Germain](images/germ.jpeg){fig-align="left" width="49%"}](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj?si=7gDhggGJRPGgzH8p8UG_tw) [![Seychelles - Masayoshi Takanaka](images/mas.jpg){width="49%"}](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g?si=XZVj2zdFSIiNznCp9abmuw)
+
+[![good kid, m.A.A.d city - Kendrick Lamar](images/ken.jpeg){width="49%"}](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w?si=ZI9J2hd0QRKCpMPyosXzdA) [![Yoshimi Battles the Pink Robots - The Flaming Lips](images/yosh.jpg){width="49%"}](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf?si=eeVmLS0uSHOpH2UNHs7OfA)
+
+[![Happy Trails - Quicksilver Messenger Service](images/quick.jpg){width="49%"}](https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r?si=C-shusb4Q6aE38WzPI8MHg) [![Make the Road By Walking - Menahan Street Band](images/menahan.jpg){width="49%"}](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC?si=C0IbWSoeTImiHztdrK1LHA)
+
+[![Highway Prayers - Billy Strings](images/bill.jpg){width="49%"}](https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo?si=K1eLi4caQaq_Wf085WPVcw) [![3rd Eye Vision - Hieroglyphics](images/hiero.jpg){width="49%"}](https://open.spotify.com/album/0NzbSqyQ70uJyPRep1Yg6L?si=_VFuzvg-RKySmu6-CeRDWw)

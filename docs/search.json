@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Personal Shopper\nInstacart | Fort Collins, Colorado Winter 2022 to Present\nStudy Abroad Field Researcher\nSIT Panama: Tropical Ecology and Conservation | Panama Winter 2024 to Summer 2024\nWildland Fire and Fuels Technician\nCSU Department of Forest and Rangeland Stewardship | Fort Collins, Colorado Summer 2023 to Fall 2023\nLandscape Assistant\nLauman Landscaping | Roanoke, Virginia Summer 2022\nBar Back and Host\nParkway Brewing Company| Salem, Virginia Fall 2019 to Summer 2022\nStudent Technology Intern\nRoanoke City Public Schools | Roanoke, Virginia Spring 2019 to Fall 2019"
+  },
+  {
+    "objectID": "experience.html#awards-and-acknowledgements",
+    "href": "experience.html#awards-and-acknowledgements",
+    "title": "Experience",
+    "section": "Awards and Acknowledgements",
+    "text": "Awards and Acknowledgements\nEagle Scout\nCompleted a commemorative service project for Healing Strides of Virginia requiring the planning, leadership, and supervision of workdays and fundraising events.\nHonors Student\nStudent of the honors program offered at Colorado State University. Invited to apply to the program as an incoming freshman and have continued to uphold a high academic standing through the rigorous constructs of the program.\nVolunteer Researcher\nParticipated in volunteer fish and macroinvertebrate field research for the Stream Fish Ecology and Conservation Lab in the Department of Fish, Wildlife, and Conservation Biology at CSU.\nLocal Conservation Agriculture Collaborator\nWorked with Poudre Valley Community Farms (PVCF) to develop a comprehensive monitoring protocol for bird diversity, nesting success, and soil health. This was completed as a requirement for ESS 501, Principles of Ecosystem Sustainability, and is being implemented and overhauled as my honors thesis project."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Parker Neal",
     "section": "",
-    "text": "Hello, I am an emerging professional in the field of sustainability focused on the convergence between watershed science, ecology, and sustainable development. My core qualities of trust and sensibility contribute to my ability to thrive in a collaborative setting. With my unique professional and scholarly experience, I am confident that my skills and knowledge will provide stability to any professional structure I join. Outside of school and work, my hobbies include hiking, fishing, photography, and attending live music."
+    "text": "Hello, I am an emerging professional in the field of sustainability focused on the convergence between watershed science, ecology, and sustainable development. My core qualities of trust and sensibility contribute to my ability to thrive in a collaborative setting. With my unique professional and scholarly experience, I am confident that my skills and knowledge will provide stability to any professional structure I join. Outside of school and work, my hobbies include hiking, fishing, biking, and listening to music."
   },
   {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "Parker Neal",
     "section": "",
-    "text": "Hello, I am an emerging professional in the field of sustainability focused on the convergence between watershed science, ecology, and sustainable development. My core qualities of trust and sensibility contribute to my ability to thrive in a collaborative setting. With my unique professional and scholarly experience, I am confident that my skills and knowledge will provide stability to any professional structure I join. Outside of school and work, my hobbies include hiking, fishing, photography, and attending live music."
+    "text": "Hello, I am an emerging professional in the field of sustainability focused on the convergence between watershed science, ecology, and sustainable development. My core qualities of trust and sensibility contribute to my ability to thrive in a collaborative setting. With my unique professional and scholarly experience, I am confident that my skills and knowledge will provide stability to any professional structure I join. Outside of school and work, my hobbies include hiking, fishing, biking, and listening to music."
   },
   {
     "objectID": "index.html#education",
@@ -28,24 +35,10 @@
     "text": "Education\nColorado State University | Fort Collins, CO\nB.S. in Ecosystem Science & Sustainability | Expected May 2025\nMinors: Watershed Science & Conservation Biology\nP.S.M in Ecosystem Science & Sustainability | Expected May 2026\nConcentration: Water Resources"
   },
   {
-    "objectID": "interest.html",
-    "href": "interest.html",
-    "title": "Extracurricular Interests",
-    "section": "",
-    "text": "This section will be for music and pictures"
-  },
-  {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
-    "section": "",
-    "text": "Study Abroad Field Researcher\nSIT Panama: Tropical Ecology and Conservation | Panama Winter 2024 to Summer 2024\nWildland Fire and Fuels Technician\nCSU Department of Forest and Rangeland Stewardship | Fort Collins, Colorado Summer 2023 to Fall 2023\nLandscape Assistant\nLauman Landscaping | Roanoke, Virginia Summer 2022\nBar Back and Host\nParkway Brewing Company| Salem, Virginia Fall 2019 to Summer 2022\nStudent Technology Intern\nRoanoke City Public Schools | Roanoke, Virginia Spring 2019 to Fall 2019"
-  },
-  {
-    "objectID": "experience.html#awards-and-acknowledgements",
-    "href": "experience.html#awards-and-acknowledgements",
-    "title": "Experience",
-    "section": "Awards and Acknowledgements",
-    "text": "Awards and Acknowledgements\nEagle Scout\nCompleted a commemorative service project for Healing Strides of Virginia requiring the planning, leadership, and supervision of workdays and fundraising events.\nHonors Student\nStudent of the honors program offered at Colorado State University. Invited to apply to the program as an incoming freshman and have continued to uphold a high academic standing through the rigorous constructs of the program.\nVolunteer Researcher\nParticipated in volunteer fish and macroinvertebrate field research for the Stream Fish Ecology and Conservation Lab in the Department of Fish, Wildlife, and Conservation Biology at CSU.\nLocal Conservation Agriculture Collaborator\nWorked with Poudre Valley Community Farms (PVCF) to develop a comprehensive monitoring protocol for bird diversity, nesting success, and soil health. This was completed as a requirement for ESS 501, Principles of Ecosystem Sustainability, and is being implemented and overhauled as my honors thesis project."
+    "objectID": "index.html#occupation",
+    "href": "index.html#occupation",
+    "title": "Parker Neal",
+    "section": "Occupation",
+    "text": "Occupation\nPersonal Shopper\nInstacart | Fort Collins, Colorado\nWinter 2022 to Present"
   }
 ]
